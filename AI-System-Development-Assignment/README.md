@@ -1,5 +1,5 @@
 # AI-Systems-Development
 
-### Rachit Tripathi
+### Aryan Singh Ghritlahare
 ### ECE
-### 221010237
+### 221010212
