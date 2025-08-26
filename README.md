@@ -1,4 +1,1 @@
-AI-SYSTEM-ASSIGNMENT
-Rachit Tripathi
-ECE
-221010237
+
